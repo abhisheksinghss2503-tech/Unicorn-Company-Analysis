@@ -1,6 +1,6 @@
 CREATE DATABASE unicorn_project;
+USE unicorn_project;
 
-USE  unicorn_project;
 DROP TABLE funding;
 CREATE TABLE companies (
     company_id INT PRIMARY KEY,
