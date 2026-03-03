@@ -1,7 +1,5 @@
 CREATE DATABASE unicorn_project;
 
-USE unicorn_project;
-
 
 CREATE TABLE companies (
     company_id INT PRIMARY KEY,
